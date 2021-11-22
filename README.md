@@ -18,6 +18,6 @@ docker ps : Permet de lister tous les conteneurs en cours d'execution. Chaque co
 
 docker ps -a : permet de lister tous les conteneurs avec leurs status (Up, Exited, Created, ...).
 
-Exécuter une image du serveur nginx: ```docker run -d -p 999:8 nginx```
+Exécuter une image du serveur nginx: ```docker run -d -p 9999:80 nginx```
 
 ## Titre
